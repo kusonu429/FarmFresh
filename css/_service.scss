@@ -18,13 +18,26 @@
              .mr-btm{
                  margin-bottom: 25px;
 
+                
+
+                    &:hover  .ser-box{
+                        background: linear-gradient(180deg, #fff 0%, #ff9933 100%);
+                    }
+                 
+             
+                 
+                   
+                 &:hover h2 {
+                    color: var(--light);
+                   
+                }
+
                    &:hover P {
                        color: var(--light);
+                      
                    }
 
-                   &:hover h2 {
-                    color: var(--light);
-                }
+                 
              }
 
             

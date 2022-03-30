@@ -550,10 +550,13 @@ header .my-owl-custom .center-text-2 .button-2:hover {
 .service .service-center .mr-btm {
   margin-bottom: 25px;
 }
-.service .service-center .mr-btm:hover P {
-  color: var(--light);
+.service .service-center .mr-btm:hover .ser-box {
+  background: linear-gradient(180deg, #fff 0%, #ff9933 100%);
 }
 .service .service-center .mr-btm:hover h2 {
+  color: var(--light);
+}
+.service .service-center .mr-btm:hover P {
   color: var(--light);
 }
 .service .service-center .ser {
