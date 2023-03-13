@@ -411,14 +411,14 @@ header .my-owl-custom .center-text-2 .button-2:hover {
 .about-section .about .about-us .about-headings .headings-2 .box1 {
   width: 90px;
   height: 100px;
-  background: #34ad54;
-  background: linear-gradient(180deg, #34ad54 0%, #ff9933 100%);
+  background: rgb(52, 173, 84);
+  background: linear-gradient(180deg, rgb(52, 173, 84) 0%, rgb(255, 153, 51) 100%);
 }
 .about-section .about .about-us .about-headings .headings-2 .box2 {
   width: 75px;
   height: 100px;
-  background: #34ad54;
-  background: linear-gradient(180deg, #34ad54 0%, #ff9933 100%);
+  background: rgb(52, 173, 84);
+  background: linear-gradient(180deg, rgb(52, 173, 84) 0%, rgb(255, 153, 51) 100%);
 }
 .about-section .about .about-us .about-headings .headings-2 h1 {
   color: var(--dark);
@@ -572,8 +572,8 @@ header .my-owl-custom .center-text-2 .button-2:hover {
 .service .service-center .ser .ser-box-1 {
   width: 80px;
   height: 100px;
-  background: #34ad54;
-  background: linear-gradient(180deg, #34ad54 0%, #ff9933 100%);
+  background: rgb(52, 173, 84);
+  background: linear-gradient(180deg, rgb(52, 173, 84) 0%, rgb(255, 153, 51) 100%);
   max-width: 1200px;
   margin: 0 auto;
   margin-bottom: 20px;
@@ -582,8 +582,8 @@ header .my-owl-custom .center-text-2 .button-2:hover {
 .service .service-center .ser .ser-box-2 {
   width: 70px;
   height: 100px;
-  background: #34ad54;
-  background: linear-gradient(180deg, #34ad54 0%, #ff9933 100%);
+  background: rgb(52, 173, 84);
+  background: linear-gradient(180deg, rgb(52, 173, 84) 0%, rgb(255, 153, 51) 100%);
   max-width: 1200px;
   margin: 0 auto;
   margin-bottom: 20px;
@@ -592,8 +592,8 @@ header .my-owl-custom .center-text-2 .button-2:hover {
 .service .service-center .ser .ser-box-3 {
   width: 95px;
   height: 100px;
-  background: #34ad54;
-  background: linear-gradient(180deg, #34ad54 0%, #ff9933 100%);
+  background: rgb(52, 173, 84);
+  background: linear-gradient(180deg, rgb(52, 173, 84) 0%, rgb(255, 153, 51) 100%);
   max-width: 1200px;
   margin: 0 auto;
   margin-bottom: 20px;
@@ -602,8 +602,8 @@ header .my-owl-custom .center-text-2 .button-2:hover {
 .service .service-center .ser .ser-box-4 {
   width: 105px;
   height: 100px;
-  background: #34ad54;
-  background: linear-gradient(180deg, #34ad54 0%, #ff9933 100%);
+  background: rgb(52, 173, 84);
+  background: linear-gradient(180deg, rgb(52, 173, 84) 0%, rgb(255, 153, 51) 100%);
   max-width: 1200px;
   margin: 0 auto;
   margin-bottom: 20px;
@@ -612,8 +612,8 @@ header .my-owl-custom .center-text-2 .button-2:hover {
 .service .service-center .ser .ser-box-5 {
   width: 90px;
   height: 100px;
-  background: #34ad54;
-  background: linear-gradient(180deg, #34ad54 0%, #ff9933 100%);
+  background: rgb(52, 173, 84);
+  background: linear-gradient(180deg, rgb(52, 173, 84) 0%, rgb(255, 153, 51) 100%);
   max-width: 1200px;
   margin: 0 auto;
   margin-bottom: 20px;
@@ -1105,7 +1105,7 @@ header .my-owl-custom .center-text-2 .button-2:hover {
   display: block;
 }
 .blog .blog-center .blog-boxes .blog-box .titel {
-  background: white;
+  background: rgb(255, 255, 255);
   background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 21%, rgba(61, 150, 86, 0.9) 83%, rgba(61, 150, 86, 0.9) 83%, rgba(61, 150, 86, 0.9) 83%);
   position: absolute;
   top: 0;
@@ -1581,7 +1581,6 @@ footer .Copyrights .owner {
   header .my-owl-custom .center-text h1 {
     font-size: 3rem;
   }
-
   .about-section .about .articals {
     width: 80%;
     margin: 0 auto;
@@ -1597,7 +1596,6 @@ footer .Copyrights .owner {
     padding-bottom: 0;
     margin-top: 200px;
   }
-
   .banners .banners-center {
     width: 80%;
   }
@@ -1605,7 +1603,6 @@ footer .Copyrights .owner {
     width: 47.5%;
     margin-bottom: 50px;
   }
-
   .service .service-center {
     width: 80%;
     margin: 0 auto;
@@ -1616,12 +1613,10 @@ footer .Copyrights .owner {
   .service .service-center .ser {
     width: 48.5%;
   }
-
   .feature .feature-center .six-containers {
     width: 80%;
     margin: 0 auto;
   }
-
   .the-team .the-team-center .team-mambers {
     width: 80%;
     margin: 0 auto;
@@ -1633,7 +1628,6 @@ footer .Copyrights .owner {
   .the-team .the-team-center .team-mambers .name P {
     font-size: 0.8rem;
   }
-
   .blog {
     padding-top: 0;
   }
@@ -1641,7 +1635,6 @@ footer .Copyrights .owner {
     width: 80%;
     margin: 0 auto;
   }
-
   footer .four-box {
     width: 80%;
     margin: 0 auto;
@@ -1658,7 +1651,6 @@ footer .Copyrights .owner {
   .banners-top .center-text {
     text-align: center;
   }
-
   .contacts .contact-center .form {
     width: 80%;
     margin: 0 auto;
@@ -1674,12 +1666,10 @@ footer .Copyrights .owner {
   .contacts .contact-center .address .add {
     margin-bottom: 25px;
   }
-
   nav {
     display: none;
     line-height: 20px;
   }
-
   .navigation nav {
     padding: 15px 2%;
   }
@@ -1718,7 +1708,6 @@ footer .Copyrights .owner {
     flex-wrap: wrap;
     justify-content: flex-end;
   }
-
   header .my-owl-custom .item1 {
     height: 80vh;
   }
@@ -1728,7 +1717,6 @@ footer .Copyrights .owner {
   header .my-owl-custom .item2 {
     height: 80vh;
   }
-
   .about-section .about .articals {
     margin-top: 0px;
   }
@@ -1758,7 +1746,6 @@ footer .Copyrights .owner {
   .about-section .about .about-us .about-headings .headings-2 p {
     font-size: 1rem;
   }
-
   .feature .feature-center .feature-headings h2 {
     font-size: 1.2rem;
   }
@@ -1791,17 +1778,14 @@ footer .Copyrights .owner {
     line-height: 25px;
     padding: 0px;
   }
-
   .the-team .the-team-center .team-mambers .mamber {
     width: 47%;
     margin-bottom: 50px;
   }
-
   .blog .blog-center .blog-boxes .blog-box {
     width: 47%;
     margin-bottom: 50px;
   }
-
   footer .four-box .f-box {
     width: 50%;
     margin: 50px 0;
@@ -1828,7 +1812,6 @@ footer .Copyrights .owner {
   html {
     font-size: 15px;
   }
-
   .banners-top .center-text {
     width: 100%;
     margin-top: 7rem;
@@ -1836,7 +1819,6 @@ footer .Copyrights .owner {
   .banners-top .center-text h1 {
     font-size: 4rem;
   }
-
   header .my-owl-custom .item1 {
     height: 60vh;
   }
@@ -1846,7 +1828,6 @@ footer .Copyrights .owner {
   header .my-owl-custom .item2 {
     height: 60vh;
   }
-
   .about-section .about .articals .artical-1 {
     width: 100%;
   }
@@ -1859,7 +1840,6 @@ footer .Copyrights .owner {
     padding-top: 0px;
     margin-top: 50px;
   }
-
   .banners .banners-center .box-icon {
     width: 100%;
     margin-bottom: 25px;
@@ -1877,7 +1857,6 @@ footer .Copyrights .owner {
     font-size: 1.8rem;
     font-family: "Roboto", sans-serif;
   }
-
   .service .service-center .ser1 {
     width: 100%;
     margin: 0 auto;
@@ -1888,11 +1867,9 @@ footer .Copyrights .owner {
     margin: 0 auto;
     margin-bottom: 50px;
   }
-
   .product .product-center .gallary .item-1 figure img {
     width: 50%;
   }
-
   .the-team .the-team-center .team-mambers .social span {
     font-size: 1.5rem;
     padding: 10px;
@@ -1911,7 +1888,6 @@ footer .Copyrights .owner {
   .the-team .the-team-center .team-mambers .mamber .name p {
     font-size: 1.2rem;
   }
-
   .blog .blog-center .blog-boxes .blog-box {
     width: 70%;
     margin: 0 auto;
@@ -1923,7 +1899,6 @@ footer .Copyrights .owner {
   .blog .blog-center .blog-boxes .blog-box .titel p {
     font-size: 1.5rem;
   }
-
   footer .four-box .f-box {
     width: 70%;
   }
@@ -1940,7 +1915,6 @@ footer .Copyrights .owner {
   html {
     font-size: 12px;
   }
-
   .banners-top {
     background-position: right;
   }
@@ -1950,7 +1924,6 @@ footer .Copyrights .owner {
   .banners-top .center-text h1 {
     font-size: 4rem;
   }
-
   .contacts .contact-center .address .add {
     margin-bottom: 25px;
   }
@@ -1959,11 +1932,9 @@ footer .Copyrights .owner {
     width: 45px;
     height: 45px;
   }
-
   .navigation nav ul li a {
     font-size: 1.4rem;
   }
-
   header .my-owl-custom .item1 {
     height: 50vh;
   }
@@ -1985,7 +1956,6 @@ footer .Copyrights .owner {
     padding-top: 0px;
     margin-top: 50px;
   }
-
   .the-team .the-team-center .team-mambers .social {
     width: 50px;
   }
@@ -2006,11 +1976,9 @@ footer .Copyrights .owner {
   .the-team .the-team-center .team-mambers .mamber .name p {
     font-size: 1rem;
   }
-
   .testimonial .testimonial-center .custom-carousel-change .item p {
     font-size: 1.1rem;
   }
-
   footer .four-box .f-box .social span {
     margin-left: -15%;
   }
